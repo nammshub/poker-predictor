@@ -48,7 +48,7 @@ REST service to predict succes rate for each step according to game config
 ```
 
 # explanation: 
-    -you can modify nbr of games simulated and opponents
+    -you can modify nbr of games simulated (3000 - 10000 seems a good range) and opponents
     -you must give your two cards
     -choices of colors: PIQUE, COEUR, CARREAU, TREFLE
     -choices of values: AS, ROI, DAME, VALET, DIX, NEUF, HUIT, SEPT, SIX, CINQ, QUATRE, TROIS, DEUX
